@@ -5,7 +5,7 @@
 This project focuses on analyzing **loan default risk** for a retail bank using **SQL and Power BI**.  
 The goal is to identify **high-risk customers**, understand **drivers of default**, measure **financial exposure**, and support **data-driven credit decisions** such as **Approve / Review / Reject**.
 
-This case study simulates a **real-world banking risk analytics problem** and is designed to be **interview-ready**.
+
 
 ---
 
